@@ -1,7 +1,7 @@
 
 body{
   background-color: #ffefd591;
-  min-width: 650px;
+  min-width: 1080px;
 }
 
 .App{
@@ -15,7 +15,7 @@ grid-template-areas:
 "topMenu topMenu topMenu"
 "leftCol rightCol rightCol"
 "footer footer footer";
-grid-template-rows: 90px 30px 300px 70px;
+grid-template-rows: 90px 30px auto 70px;
 grid-template-columns: 180px ;
 
 }

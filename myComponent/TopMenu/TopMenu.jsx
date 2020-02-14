@@ -1,6 +1,6 @@
 import React from 'react';
 
-import top_menu from './../myCss/TopMenu.module.css';
+import top_menu from './TopMenu.module.css';
 //import './../myCss/TopMenu.css';
 
 const TopMenu = () => {

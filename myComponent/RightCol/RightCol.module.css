@@ -4,15 +4,11 @@
     border: 1px solid green;
     grid-area: rightCol;
     background: linear-gradient(to left, papayawhip, #ffffffc8); 
+
+    display: grid;
+
+    grid-template-columns: auto 180px;
   }
   
 
-  
-.rightcoltemp{
-    _border: 1px solid red;
-    margin: 15px;
-    padding: 2px 0px;
-    font-size: 0.9em;
-    }
-    
     

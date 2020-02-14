@@ -1,6 +1,6 @@
 import React from 'react';
 
-import left_menu from './../myCss/LeftMenu.module.css';
+import left_menu from './LeftMenu.module.css';
 
 const LeftMenu = () => {
 

@@ -2,11 +2,11 @@ import React from 'react';
 //import logo from './logo.svg';
 import './App.css';
 
-import Header from './myComponent/Header';
-import TopMenu from './myComponent/TopMenu';
-import LeftCol from './myComponent/LeftCol';
-import RightCol from './myComponent/RightCol';
-import Footer from './myComponent/Footer';
+import Header from './myComponent/Header/Header';
+import TopMenu from './myComponent/TopMenu/TopMenu';
+import LeftCol from './myComponent/LeftCol/LeftCol';
+import RightCol from './myComponent/RightCol/RightCol';
+import Footer from './myComponent/Footer/Footer';
 
 
 const App = function () {

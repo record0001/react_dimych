@@ -14,7 +14,7 @@
 
     grid-template-columns:  repeat(5, max-content);
 
-    _grid-auto-flow: row  ??? ;
+    /*_grid-auto-flow: row  ??? ; */
     justify-content: right;
     
     
