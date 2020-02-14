@@ -1,6 +1,7 @@
 
 body{
   background-color: #ffefd591;
+  min-width: 650px;
 }
 
 .App{

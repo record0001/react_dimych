@@ -2,7 +2,7 @@ import React from 'react';
 
 import LeftMenu from './LeftMenu';
 
-import './LeftCol.css';
+import './../myCss/LeftCol.css';
 
 const LeftCol = () => {
 

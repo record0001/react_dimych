@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './RightCol.css';
+import './../myCss/RightCol.css';
 
 const RightCol = () => {
 
