@@ -1,12 +1,26 @@
 
 .LeftMenu div:hover{
     background-color: papayawhip;
+	_border: 1px solid red;
   }
+  
+  .LeftMenu div{
+    _background-color: papayawhip;
+	_border: 1px solid blue;
+	display: grid;
+	_margin: 2px 0px;
+	padding: 3px 0px;
+	align-items: center;
+  }
+  
+  
 
   .LeftMenu a{
     text-decoration: none;
     color: #000;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+	position: relative;
+	top: -1px;
     }
     
     
