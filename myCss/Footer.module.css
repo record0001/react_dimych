@@ -1,0 +1,18 @@
+
+.Footer{
+    display: grid;
+    border: 1px solid red;
+    grid-area: footer;
+    background: linear-gradient(to top, papayawhip, #ffffffc8); 
+  
+    
+  }
+  
+  .Footer div{
+    
+    text-align: center;
+    vertical-align: bottom;
+    margin: auto 0px;
+    
+  }
+  
