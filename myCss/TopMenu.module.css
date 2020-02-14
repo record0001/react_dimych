@@ -14,7 +14,7 @@
 
     grid-template-columns:  repeat(5, max-content);
 
-    grid-auto-flow: row;
+    _grid-auto-flow: row  ??? ;
     justify-content: right;
     
     
@@ -28,8 +28,9 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bolder;
 
-    margin: auto 0px;
-
+   
+	display: grid;
+align-items: center;
   }
   
     
@@ -43,7 +44,26 @@
     text-decoration: none;
     color: #000;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    position: relative;
+    _position: relative;
+	
+	_padding: auto 0px;
+	_border: 1px solid red;
+	
+	
+	
     }
 
     
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
